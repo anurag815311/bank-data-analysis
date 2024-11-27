@@ -72,7 +72,7 @@ Customer churn is a critical issue for businesses, as retaining customers is oft
 ## Results and Insights
 
 - Predictive accuracy and model evaluation metrics are discussed in the notebook.
-- Key churn predictors identified through the analysis.
+- Key churn predictors identified through the analysis. 
 
 ---
 
