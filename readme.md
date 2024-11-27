@@ -1,7 +1,6 @@
-Here’s a sample `README.md` file based on your use of the listed libraries and a general churn dataset analysis project:
 
 
-# Customer Churn Analysis
+# Bank data analysis(Customer Churn Analysis)
 
 This project focuses on analyzing customer churn and predicting whether a customer is likely to churn using machine learning techniques. The analysis is implemented in Python, utilizing popular libraries for data preprocessing, visualization, and modeling.
 
@@ -92,3 +91,4 @@ Customer churn is a critical issue for businesses, as retaining customers is oft
 - Thanks to the open-source community for tools and resources.
 - Dataset and domain inspiration from various churn analysis studies.
 
+## References :- (https://www.kaggle.com/code/tauheedkhan123/bank-customer-churn-prediction-using-ml)
