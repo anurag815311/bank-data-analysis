@@ -1,6 +1,6 @@
 
 
-# Bank data analysis(Customer Churn Analysis)
+# Bank Data Analysis(Customer Churn Analysis)
 
 This project focuses on analyzing customer churn and predicting whether a customer is likely to churn using machine learning techniques. The analysis is implemented in Python, utilizing popular libraries for data preprocessing, visualization, and modeling.
 
@@ -72,7 +72,7 @@ Customer churn is a critical issue for businesses, as retaining customers is oft
 ## Results and Insights
 
 - Predictive accuracy and model evaluation metrics are discussed in the notebook.
-- Key churn predictors identified through the analysis.
+- Key churn predictors identified through the analysis. 
 
 ---
 
