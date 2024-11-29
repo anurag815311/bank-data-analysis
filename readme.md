@@ -22,7 +22,7 @@ Customer churn is a critical issue for businesses, as retaining customers is oft
   - Scaling features using `MinMaxScaler` for normalization.
 
 - **Modeling**:
-  - Predictive modeling using `KNeighborsClassifier` from the `sklearn` library.
+  - Predictive modeling using `KNeighborsClassifier` from the `sklearn`or 'scikit-learn' library.
   
 - **Visualization**:
   - Insights and trends visualized using `matplotlib`.
